@@ -1,0 +1,20 @@
+{
+  "name": "yuraodessa/libraryuseragent",
+  "autoload": {
+    "psr-4": {
+      "Yuriy\\LibraryUserAgent\\": "./src"
+    }
+  },
+  "require": {
+    "illuminate/support": "^v8.33.1 ",
+    "geoip2/geoip2": "~2.0",
+    "jenssegers/agent": "^2.6",
+    "yuraodessa/useragent": "master"
+  },
+  "repositories": [
+    {
+      "type": "vcs",
+      "url": "https://github.com/yuralucky/useragent"
+    }
+  ]
+}
