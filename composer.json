@@ -9,7 +9,7 @@
   "require": {
     "illuminate/support": "^v8.33.1 ",
     "geoip2/geoip2": "~2.0",
-    "jenssegers/agent": "^2.6",
+    "jenssegers/agent": "^2.6"
   },
   "prefer-stable": true,
   "description": "library "
