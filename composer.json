@@ -9,13 +9,7 @@
     "illuminate/support": "^v8.33.1 ",
     "geoip2/geoip2": "~2.0",
     "jenssegers/agent": "^2.6",
-    "yuraodessa/useragent": "master"
+    "yuraodessa/useragent": "1.0.1"
   },
-  "repositories": [
-    {
-      "type": "vcs",
-      "url": "https://github.com/yuralucky/useragent"
-    }
-  ],
   "description": "library user agent"
 }
