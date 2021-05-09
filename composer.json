@@ -11,5 +11,6 @@
     "jenssegers/agent": "^2.6",
     "yuraodessa/useragent": "1.0.1"
   },
+  "prefer-stable": true,
   "description": "library user agent"
 }
