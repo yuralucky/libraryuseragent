@@ -10,7 +10,6 @@
     "illuminate/support": "^v8.33.1 ",
     "geoip2/geoip2": "~2.0",
     "jenssegers/agent": "^2.6",
-    "yuraodessa/useragent": "1.0.1"
   },
   "prefer-stable": true,
   "description": "library "
