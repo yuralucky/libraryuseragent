@@ -16,5 +16,6 @@
       "type": "vcs",
       "url": "https://github.com/yuralucky/useragent"
     }
-  ]
+  ],
+  "description": "library user agent"
 }
