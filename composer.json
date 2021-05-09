@@ -1,6 +1,6 @@
 {
   "name": "yuraodessa/libraryuseragent",
-  "type": "project",
+  "type": "package",
   "autoload": {
     "psr-4": {
       "Yuriy\\LibraryUserAgent\\": "./src"
