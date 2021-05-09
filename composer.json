@@ -12,5 +12,5 @@
     "yuraodessa/useragent": "1.0.1"
   },
   "prefer-stable": true,
-  "description": "library user agent"
+  "description": "library user"
 }
